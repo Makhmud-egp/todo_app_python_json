@@ -30,8 +30,8 @@ done  → Mark task as done
 stop  → Exit program
 
 
-todo_app/
-│── todo.py        # main program
+todo_app_python_json/
+│── todo_app_python_json.py        # main program
 │── ToDo.json      # tasks stored here (auto-created)
 └── README.md      # project documentation
 
